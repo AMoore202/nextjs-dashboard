@@ -10,4 +10,4 @@ To start dev
 npm run dev
 ```
 
-[Next Lesson](https://nextjs.org/learn/dashboard-app/partial-prerendering)
+[Next Lesson](https://nextjs.org/learn/dashboard-app/adding-search-and-pagination)
